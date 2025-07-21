@@ -1,4 +1,4 @@
-# sathashini4623.github.io
+# sathashini-s.github.io
 Profile Page Sample
 
 ## Setup

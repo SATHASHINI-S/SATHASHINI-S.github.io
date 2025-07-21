@@ -7,7 +7,7 @@ tags: [NLP, sentiment analysis, student feedback, AI, education tech]
 
 ### Project Summary
 
-This project automates the analysis of student feedback by using *Natural Language Processing (NLP)* to classify sentiments as positive, negative, or neutral. It provides *real-time insights* for educators and administrators to improve academic quality and student satisfaction.
+This project automates the analysis of student feedback by using *Natural Language Processing (NLP)* to classify sentiments as positive, negative, or neutral. It provides *real-time insights* for educators and administrators to improve academic and student satisfaction.
 
 ### Tools & Technologies
 
