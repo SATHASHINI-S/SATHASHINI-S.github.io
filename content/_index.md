@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Highly motivated Full Stack Developer with a strong technical foundation in Java, JDBC, SQL, HTML, CSS, JavaScript, and Git. Committed to building robust, user-centric web applications while demonstrating strengths in problem-solving, collaboration, and efficient project execution.
