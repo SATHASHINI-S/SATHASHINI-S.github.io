@@ -1,25 +1,21 @@
 [
   {
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[
-        {"name" : "Python-Django"},
-        {"name" : "Java"},
-        {"name" : "git"},
-        {"name" : "HTML"},
-        {"name" : "SQL"}, 
-        {"name" : "C"},
-        {"name" : "Deep Learning"}
-        
-      ]
+    "category": "Programming Languages & Tools",
+    "skills": [
+      { "name": "Java" },
+      { "name": "Python (Django)" },
+      { "name": "C" },
+      { "name": "HTML" },
+      { "name": "SQL" },
+      { "name": "Git" },
+      { "name": "Deep Learning" }
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[{ "name" : "MySQL"}]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"}
-      ]
+    "category": "Database & Platform Management",
+    "skills": [
+      { "name": "MySQL" },
+      { "name": "Microsoft SQL Server", "icon": "msql_server" }
+    ]
   }
 ]
