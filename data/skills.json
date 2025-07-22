@@ -1,20 +1,10 @@
-[
-  {
-    "title": "💻 Code & Creativity",
-    "skills": [
-      { "name": "Java", "icon": "☕", "type": "Language" },
-      { "name": "Python-Django", "icon": "🐍", "type": "Framework" },
-      { "name": "C", "icon": "🔣", "type": "Language" },
-      { "name": "HTML", "icon": "🌐", "type": "Markup" },
-      { "name": "SQL", "icon": "📊", "type": "Language" },
-      { "name": "Git", "icon": "🔧", "type": "Tool" },
-      { "name": "Deep Learning", "icon": "🧠", "type": "AI" }
-    ]
-  },
-  {
-    "title": "🛠️ Platform Power",
-    "skills": [
-      { "name": "MySQL", "icon": "🐬", "type": "Database" }
-    ]
+{
+  "skills": {
+    "Programming Languages": ["Java", "C", "SQL", "HTML"],
+    "Database Technologies": ["MySQL"],
+    "Version Control & Tools": ["Git"],
+    "Frameworks & Libraries": ["Deep Learning (TensorFlow/Keras)"],
+    "Concepts": ["Object-Oriented Programming (OOP)", "RESTful Services", "SDLC"],
+    "Areas of Interest": ["Backend Development", "AI/ML"]
   }
-]
+}
