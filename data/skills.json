@@ -16,11 +16,5 @@
     "skills": [
       { "name": "MySQL", "icon": "🐬", "type": "Database" }
     ]
-  },
-  {
-    "title": "📂 Data Dynamics",
-    "skills": [
-      { "name": "Microsoft SQL Server", "icon": "🗄️", "type": "Database" }
-    ]
   }
 ]
