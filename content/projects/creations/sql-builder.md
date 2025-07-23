@@ -1,28 +1,44 @@
 ---
-title: "Sentiment Analysis for Student Feedback"
-date: 2024-06-01
+title: "SQL Builder: Lightweight Native Java SQL Client"
+
+date: 2025-07-23
 draft: false
-tags: [NLP, sentiment analysis, student feedback, AI, education tech]
+tags: [Java, SQL, JDBC, ORM alternative, Spring Boot, Quarkus, lightweight framework]
 ---
+
+SQL Builder: Lightweight Native Java SQL Client
+===============================================
 
 ### Project Summary
 
-This project automates the analysis of student feedback by using *Natural Language Processing (NLP)* to classify sentiments as positive, negative, or neutral. It provides *real-time insights* for educators and administrators to improve academic and student satisfaction.
+SQL Builder is a lightweight SQL client designed to simplify database operations in Java applications. It serves as a minimalistic alternative to heavier ORM tools like Spring JDBC and MyBatis, allowing developers to perform CRUD operations efficiently using a fluent and intuitive API. Built with native Java libraries, SQL Builder emphasizes clarity, speed, and framework independence.
 
-### Tools & Technologies
+### Why Use SQL Builder?
 
-- NLP (Natural Language Processing)
-- Machine Learning (ML)
-- Python, Jupyter
-- Dashboards for visualization
+- Framework Independent: Compatible with any Java framework such as Spring Boot or Quarkus.
+- Native Java: Built using only Java's standard libraries—no external dependencies.
+- Lightweight: Minimal overhead, ideal for microservices and high-performance systems.
+- Simple: Offers a clear and fluent API for streamlined SQL operations.
+
+### Goals
+
+- Eliminate third-party dependencies for full native Java implementation.
+- Improve readability with a fluent and expressive method-chaining syntax.
+- Reduce configuration complexity commonly found in traditional ORM frameworks.
 
 ### Key Features
 
-- Real-time feedback categorization
-- Scalable for large datasets
-- Actionable insights for academic improvement
+- Fluent API for building and executing SQL queries.
+- Insert operations with support for multiple records.
+- Ability to retrieve auto-generated keys after insertions.
+- Single-record and multi-record selection using custom mappers.
+- Built-in check for record existence.
 
-### Applications
+### Use Cases
 
-- Universities and schools
-- Feedback loops for continuous improvement
+- Ideal for backend services requiring direct SQL access without the overhead of ORMs.
+- Useful in small to mid-scale applications where simplicity and performance matter.
+- Perfect for developers who prefer native Java code and full control over SQL queries.
+- Suitable for educational projects, lightweight deployments, or proof-of-concept tools.
+
+---
