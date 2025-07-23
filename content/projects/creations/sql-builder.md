@@ -1,12 +1,11 @@
 ---
 title: "SQL Builder: Lightweight Native Java SQL Client"
 
-date: 2025-07-23
+date: 2025-07-06
 draft: false
 tags: [Java, SQL, JDBC, ORM alternative, Spring Boot, Quarkus, lightweight framework]
 ---
 
-SQL Builder: Lightweight Native Java SQL Client
 ===============================================
 
 ### Project Summary
