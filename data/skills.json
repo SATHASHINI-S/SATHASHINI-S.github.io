@@ -1,6 +1,6 @@
 {
   "skills": {
-    "Programming Languages": ["Java", "C", "SQL", "HTML"],
+    "Programming Languages": ["Java", "SQL", "HTML","Js"],
     "Database Technologies": ["MySQL"],
     "Version Control & Tools": ["Git"],
     "Frameworks & Libraries": ["Deep Learning (TensorFlow/Keras)"],
