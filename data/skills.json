@@ -1,10 +1,26 @@
-{
-  "skills": {
-    "Programming Languages": ["Java", "SQL", "HTML","Js"],
-    "Database Technologies": ["MySQL"],
-    "Version Control & Tools": ["Git"],
-    "Frameworks & Libraries": ["Deep Learning (TensorFlow/Keras)"],
-    "Concepts": ["Object-Oriented Programming (OOP)", "RESTful Services", "SDLC"],
-    "Areas of Interest": ["Backend Development", "AI/ML"]
+[
+  {
+    "category": "Programming Languages",
+    "items": ["Java", "SQL", "HTML", "Js"]
+  },
+  {
+    "category": "Database Technologies",
+    "items": ["MySQL"]
+  },
+  {
+    "category": "Version Control & Tools",
+    "items": ["Git"]
+  },
+  {
+    "category": "Frameworks & Libraries",
+    "items": ["Deep Learning (TensorFlow/Keras)"]
+  },
+  {
+    "category": "Concepts",
+    "items": ["Object-Oriented Programming (OOP)", "RESTful Services", "SDLC"]
+  },
+  {
+    "category": "Areas of Interest",
+    "items": ["Backend Development", "AI/ML"]
   }
-}
+]
