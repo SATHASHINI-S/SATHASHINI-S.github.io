@@ -1,32 +1,45 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+    "grouping": "Programming Languages",
+    "skills": [
+      {"name": "Java"},
+      {"name": "SQL"},
+      {"name": "HTML"},
+      {"name": "Js"}
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+    "grouping": "Database Technologies",
+    "skills": [
+      {"name": "MySQL", "icon": "mysql"}
+    ]
   },
   {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+    "grouping": "Version Control & Tools",
+    "skills": [
+      {"name": "Git", "icon": "git"}
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+    "grouping": "Frameworks & Libraries",
+    "skills": [
+      {"name": "TensorFlow", "link": "https://www.tensorflow.org"},
+      {"name": "Keras", "link": "https://keras.io"}
+    ]
+  },
+  {
+    "grouping": "Concepts",
+    "skills": [
+      {"name": "Object-Oriented Programming (OOP)"},
+      {"name": "RESTful Services"},
+      {"name": "SDLC"}
+    ]
+  },
+  {
+    "grouping": "Areas of Interest",
+    "skills": [
+      {"name": "Backend Development"},
+      {"name": "AI/ML"}
+    ]
   }
 ]
