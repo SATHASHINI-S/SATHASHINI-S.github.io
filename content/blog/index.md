@@ -6,7 +6,7 @@ tags: [Java, ADK, Spring JDBC, Project Loom, Virtual Threads, Java 21, Google Cl
 ---
 
 <details>
-<summary><strong>Click here to read full blog</strong></summary>
+<summary><strong>Click Here</strong></summary>
 
 <br>
 
