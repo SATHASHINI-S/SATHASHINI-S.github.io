@@ -5,7 +5,6 @@ pubtype: "Presentation"
 featured: true
 description: "Presented at Dhanalakshmi Engineering College, this project showcases the use of AI and CNN for real-time, touchless desktop interaction through hand gestures."
 tags: ["AI", "CNN", "Gesture Recognition", "Human-Computer Interaction", "Touchless Control"]
-image: "/img/organicdevops.webp"
 link: "NA"
 fact: "Showcases a seamless AI-based alternative to traditional input devices."
 weight: 400
