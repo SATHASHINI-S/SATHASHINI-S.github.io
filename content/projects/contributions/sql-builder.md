@@ -1,7 +1,7 @@
 ---
 title: "SQL Builder"
 link: "https://github.com/your-repo/sql-builder"
-image: "/img/sql-builder-logo.jpg"
+image: "/img/SqlBuilder.jpg"
 description: "Lightweight native SQL client for Java, built for speed, clarity, and framework independence."
 featured: true
 tags: ["Java", "SQL", "JDBC", "ORM alternative", "Spring Boot", "Quarkus"]
