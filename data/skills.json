@@ -9,6 +9,13 @@
     ]
   },
   {
+    "grouping": "Programming Model",
+    "skills": [
+      {"name": "Object-Oriented Programming (OOP)"},
+      {"name": "Functional Programming"}
+    ]
+  },
+  {
     "grouping": "Database Technologies",
     "skills": [
       {"name": "MySQL", "icon": "mysql"}
@@ -30,7 +37,6 @@
   {
     "grouping": "Concepts",
     "skills": [
-      {"name": "Object-Oriented Programming (OOP)"},
       {"name": "RESTful Services"},
       {"name": "SDLC"}
     ]
