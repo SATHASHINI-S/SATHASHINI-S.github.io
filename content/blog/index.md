@@ -12,7 +12,7 @@ Earlier this month, I had the opportunity to attend a vibrant **Java Meetup in B
 
 From cloud-native Java applications to concurrency patterns and Spring framework optimization, the topics covered were both **technically rich and practically applicable**. Here's a detailed glimpse into the key highlights from the event:
 
-### ⚡ Glimpse of the Event
+### Glimpse of the Event
 
 #### 🔹 *Ashutosh S. Bhakare – Building Secure Apps on Google Cloud with ADK*
 
@@ -46,14 +46,14 @@ Instead of opting for typical framework-heavy solutions, he proposed a **DIY-sty
 
 ---
 
-### 🔍 Key Takeaways
+### Key Takeaways
 
 - Java’s modern features are not just syntactic sugar—they significantly improve maintainability and readability.
 - Project Loom is set to revolutionize concurrency handling in Java.
 - DIY approaches in frameworks like Spring can simplify code and improve performance.
 - The Google ADK offers a streamlined way to build secure applications on the cloud using familiar Java paradigms.
 
-### 🙌 Final Thoughts
+### Final Thoughts
 
 This meetup reminded me of how dynamic and ever-evolving the Java ecosystem is. It was inspiring to witness experienced professionals share not only their technical skills but also their passion for building better software.
 
