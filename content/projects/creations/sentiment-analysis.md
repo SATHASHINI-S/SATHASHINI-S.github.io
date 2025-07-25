@@ -1,6 +1,7 @@
 ---
 title: "Sentiment Analysis for Student Feedback"
 date: 2024-06-01
+image: "/img/sentimentalAnalysisImg.webp"
 draft: false
 tags: [NLP, sentiment analysis, student feedback, AI, education tech]
 ---
