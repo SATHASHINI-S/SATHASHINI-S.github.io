@@ -5,7 +5,6 @@ pubtype: "Blog"
 featured: true
 description: "Recap of a developer meetup in Bangalore covering Java 21, Spring JDBC, Project Loom, Google Cloud ADK, and more."
 tags: ["Java", "ADK", "Spring JDBC", "Project Loom", "Java 21", "Meetup", "Developer Community"]
-link: "NA"
 fact: "Explores modern Java trends and community insights shared by experts at a live meetup."
 weight: 500
 sitemap:
