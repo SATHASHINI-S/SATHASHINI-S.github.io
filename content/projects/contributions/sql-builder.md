@@ -25,4 +25,4 @@ It supports multiple Java frameworks such as Spring Boot and Quarkus, making it 
 
 By focusing on readability, maintainability, and performance, SQL Builder becomes a powerful tool for developers who value control and minimalism in backend development.
 
-Project Links: [GitHub Repository](https://github.com/your-repo/sql-builder)
+Project Links: [GitHub Repository](https://github.com/SATHASHINI-S/sql-builder)
