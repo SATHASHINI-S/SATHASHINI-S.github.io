@@ -10,7 +10,7 @@
     ]
   },
   {
-    "grouping": "Programming Model",
+    "grouping": "Programming Models",
     "skills": [
       {"name": "Object-Oriented Programming (OOP)"},
       {"name": "Functional Oriented Programming"}
