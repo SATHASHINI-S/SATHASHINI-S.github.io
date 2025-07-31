@@ -1,6 +1,6 @@
 ---
 title: "Insights from Java Meetup – Bangalore"
-date: 2025-07-25
+date: 2025-07-12
 pubtype: "Blog"
 featured: true
 description: "Recap of a developer meetup in Bangalore covering Java 21, Spring JDBC, Project Loom, Google Cloud ADK, and more."

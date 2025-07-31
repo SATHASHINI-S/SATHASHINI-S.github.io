@@ -1,6 +1,6 @@
 ---
 title: Blog
-date: 2025-07-25T00:00:00.000Z
+date: 2025-07-12T00:00:00.000Z
 weight: 20
 sitemap:
   priority: 0.6
