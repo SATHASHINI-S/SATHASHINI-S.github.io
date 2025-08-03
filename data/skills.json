@@ -4,9 +4,7 @@
     "skills": [
       {"name": "Java"},
       {"name": "SQL"},
-      {"name": "HTML"},
-      {"name": "CSS"},
-      {"name": "JS"}
+      {"name": "HTML"}
     ]
   },
   {
