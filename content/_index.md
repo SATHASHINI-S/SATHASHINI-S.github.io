@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Highly motivated Full Stack Developer with a strong technical foundation in Java, JDBC, SQL, HTML, CSS, JavaScript, and Git. Committed to building robust, user-centric web applications while demonstrating strengths in problem-solving, collaboration, and efficient project execution.
+Highly motivated Backend Developer with a strong technical foundation in Java, JDBC, SQL, and Git. Skilled in designing and implementing scalable, secure, and efficient server-side applications. Committed to backend architecture excellence with a focus on performance, data integrity, and API development. Known for strong problem-solving abilities, effective collaboration, and timely project delivery.
