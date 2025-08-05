@@ -36,13 +36,6 @@
     ]
   },
   {
-    "grouping": "Concepts",
-    "skills": [
-      {"name": "RESTful Services"},
-      {"name": "SDLC"}
-    ]
-  },
-  {
     "grouping": "Areas of Interest",
     "skills": [
       {"name": "Backend Development"},
