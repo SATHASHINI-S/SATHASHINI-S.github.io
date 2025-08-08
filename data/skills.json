@@ -9,13 +9,7 @@
       {"name": "JS"}
     ]
   },
-  {
-    "grouping": "Programming Models",
-    "skills": [
-      {"name": "Object-Oriented Programming (OOP)"},
-      {"name": "Functional Oriented Programming"}
-    ]
-  },
+ 
   {
     "grouping": "Database Technologies",
     "skills": [
