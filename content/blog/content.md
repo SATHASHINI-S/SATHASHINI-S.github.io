@@ -46,12 +46,7 @@ He showcased how these features reduce boilerplate code and make Java cleaner an
 
 Kapil gave an in-depth explanation of **Project Loom**, focusing on:
 
-- Limitations of traditional Java threads  
-- Introduction to **Virtual Threads** and how they differ from platform threads  
-- Code examples showing how thread pools can be replaced with lightweight concurrency  
-- Benefits in scalability and responsiveness for high-load applications  
 
-He demonstrated how developers can adopt Loom today using Java 21 preview features.
 
 ---
 
