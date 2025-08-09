@@ -31,12 +31,7 @@ His talk made it clear how Google Cloud tools are adapting to meet enterprise Ja
 
 ### 2. Sumanth K S – Modern Java Features You Should Be Using
 
-Sumanth covered the evolution of Java, focusing on features introduced in recent versions (Java 17 to Java 21):
-
-- `record` types for lightweight data carriers  
-- `sealed` classes for better type hierarchies  
-- Pattern matching with `instanceof`  
-- Multiline `text blocks` and new `string templates`  
+ 
 
 He showcased how these features reduce boilerplate code and make Java cleaner and more expressive.
 
