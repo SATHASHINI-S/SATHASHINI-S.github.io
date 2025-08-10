@@ -6,6 +6,14 @@
         "major":"ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
         "cgpa":"8.7",
         "range":"2021 - 2025"
+    },
+
+    {
+        "school":"GOVERNMENT HIGHER SECONDARY SCHOOL",
+        "degree":"HSC",
+        "major":"",
+        "percentage":"83%",
+        "range":"2020 - 2021"
     }
 
 ]
