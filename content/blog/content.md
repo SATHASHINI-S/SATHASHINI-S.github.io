@@ -70,10 +70,7 @@ It was a refreshing session for developers who prefer control over their persist
 
 Apart from the technical sessions, the meetup offered great opportunities to interact with developers from different backgrounds—startups, MNCs, and academia. We discussed:
 
-- Migration strategies to Java 21  
-- Adoption of microservices in Spring Boot  
-- Real-world concurrency challenges  
-- GCP vs AWS for enterprise Java workloads  
+
 
 This face-to-face interaction added immense value to the experience.
 
