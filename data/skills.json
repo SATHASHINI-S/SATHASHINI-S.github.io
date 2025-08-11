@@ -34,6 +34,14 @@
       {"name": "TensorFlow", "link": "https://www.tensorflow.org"},
       {"name": "Keras", "link": "https://keras.io"}
     ]
+  },
+
+  {
+    "grouping": "Areas of Interest",
+    "skills": [
+      {"name": "Backend Development"},
+      {"name": "AI/ML"}
+    ]
   }
 ]
 
