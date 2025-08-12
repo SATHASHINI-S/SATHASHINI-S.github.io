@@ -21,6 +21,11 @@ I had the opportunity to attend the **Java Developer Meetup** in Bangalore, an e
 
 Ashutosh introduced **Google's Application Development Kit (ADK)** for Java developers and demonstrated how it simplifies the creation of secure, scalable, cloud-native applications. The live demo illustrated:
 
+- Integrating authentication and authorization into Java apps  
+- Best practices for deploying Java services on **Google Cloud Run**  
+- Using ADK SDKs to enforce encryption and policy management  
+
+His talk made it clear how Google Cloud tools are adapting to meet enterprise Java needs with robust security.
 
 ---
 
