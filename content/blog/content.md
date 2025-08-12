@@ -11,7 +11,7 @@ sitemap:
   priority : 0.8
 ---
 
-I had the opportunity to attend the **Java Developer Meetup** in Bangalore, an event that brought together professionals and enthusiasts from the Java ecosystem. The meetup featured a lineup of experienced speakers who shared .
+I had the opportunity to attend the **Java Developer Meetup** in Bangalore, an event that brought together professionals and enthusiasts from the Java ecosystem. The meetup featured a lineup of experienced speakers who shared valuable insights into the evolving landscape of Java development, including concurrency models, modern language features, cloud-native architecture, and data access optimization.
 
 ---
 
