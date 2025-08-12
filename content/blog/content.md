@@ -54,23 +54,15 @@ Kapil gave an in-depth explanation of **Project Loom**, focusing on:
 He demonstrated how developers can adopt Loom today using Java 21 preview features.
 ---
 
-### 4. Sathish Kumar T – DIY Spring JDBC for Real-World Applications
-
-Sathish delivered a practical talk about building a **Spring JDBC** solution from scratch without relying on heavy abstraction layers like Hibernate. Key points included:
-
-- Designing clean, maintainable DAO layers  
-- Improving performance using batch updates and row mappers  
-- Reducing complexity while maintaining flexibility in data access  
-
-It was a refreshing session for developers who prefer control over their persistence logic.
-
----
 
 ## Networking and Collaboration
 
 Apart from the technical sessions, the meetup offered great opportunities to interact with developers from different backgrounds—startups, MNCs, and academia. We discussed:
 
-
+- Migration strategies to Java 21  
+- Adoption of microservices in Spring Boot  
+- Real-world concurrency challenges  
+- GCP vs AWS for enterprise Java workloads  
 
 This face-to-face interaction added immense value to the experience.
 
