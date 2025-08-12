@@ -54,6 +54,17 @@ Kapil gave an in-depth explanation of **Project Loom**, focusing on:
 He demonstrated how developers can adopt Loom today using Java 21 preview features.
 ---
 
+### 4. Sathish Kumar T – DIY Spring JDBC for Real-World Applications
+
+Sathish delivered a practical talk about building a **Spring JDBC** solution from scratch without relying on heavy abstraction layers like Hibernate. Key points included:
+
+- Designing clean, maintainable DAO layers  
+- Improving performance using batch updates and row mappers  
+- Reducing complexity while maintaining flexibility in data access  
+
+It was a refreshing session for developers who prefer control over their persistence logic.
+
+---
 
 ## Networking and Collaboration
 
