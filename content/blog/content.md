@@ -75,7 +75,7 @@ Apart from the technical sessions, the meetup offered great opportunities to int
 - Real-world concurrency challenges  
 - GCP vs AWS for enterprise Java workloads  
 
-
+This face-to-face interaction added immense value to the experience.
 
 ---
 
