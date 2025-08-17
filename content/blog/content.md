@@ -52,6 +52,8 @@ Kapil gave an in-depth explanation of **Project Loom**, focusing on:
 - Benefits in scalability and responsiveness for high-load applications  
 
 He demonstrated how developers can adopt Loom today using Java 21 preview features.
+
+
 ---
 
 ### 4. Sathish Kumar T – DIY Spring JDBC for Real-World Applications
