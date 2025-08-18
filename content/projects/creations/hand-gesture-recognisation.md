@@ -42,6 +42,5 @@ This project presents a *vision-based hand gesture recognition system* designed 
 - Ideal for hygienic environments like healthcare.
 - Enhances accessibility for users with physical limitations.
 - Useful for public or shared computing systems.
-- Can be extended for gesture-based smart home or media control.
 
 ---
