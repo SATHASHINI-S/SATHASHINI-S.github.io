@@ -2,6 +2,7 @@
 title: "Touchless Media Control via Hand Gesturing using CNN"
 date: 2025-06-01
 draft: false
+image: "/img/Touchless.jpg"
 tags: [CNN, gesture recognition, touchless control, media interface, AI]
 ---
 
