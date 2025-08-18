@@ -11,7 +11,7 @@ AI Powered Hand Gesture Recognition for Touchless Desktop Control
 
 ### Project Summary
 
-This project presents a *vision-based hand gesture recognition system* designed to enable *touchless desktop interaction*. It allows users to perform common computer functions—such as cursor movement, clicking, scrolling, and adjusting volume/brightness—by interpreting hand gestures captured via a webcam.
+This project presents a *vision-based hand gesture recognition system* designed to enable *touchless desktop interaction*. It allows users to perform common 
 
 ### Tools & Technologies Used
 
