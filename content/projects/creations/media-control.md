@@ -14,7 +14,7 @@ This system uses *Convolutional Neural Networks (CNNs)* to detect hand gestures 
 
 - CNN (Convolutional Neural Network)
 - OpenCV / Python
-
+- Webcam for real-time capture
 
 ### Key Features
 
