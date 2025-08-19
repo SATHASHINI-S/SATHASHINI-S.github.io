@@ -8,7 +8,7 @@ tags: [CNN, gesture recognition, touchless control, media interface, AI]
 
 ### Project Summary
 
-This system uses *Convolutional Neural Networks (CNNs)* to detect hand gestures and map them to media control commands (play, pause, volume, etc.). , which the CNN classifies into specific gestures to enable *contactless control*.
+This system uses *Convolutional Neural Networks (CNNs)* to detect hand gestures and map them to media control commands (play, pause, volume, etc.). A camera captures real-time video input, which the CNN classifies into specific gestures to enable *contactless control*.
 
 ### Tools & Technologies
 
