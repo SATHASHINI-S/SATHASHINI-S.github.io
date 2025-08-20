@@ -14,7 +14,8 @@ This project automates the analysis of student feedback by using *Natural Langua
 
 - NLP (Natural Language Processing)
 - Machine Learning (ML)
-
+- Python, Jupyter
+- Dashboards for visualization
 
 ### Key Features
 
@@ -25,4 +26,4 @@ This project automates the analysis of student feedback by using *Natural Langua
 ### Applications
 
 - Universities and schools
-- Feedback loops for continuous improvement
+- Feedback loops for continuous 
