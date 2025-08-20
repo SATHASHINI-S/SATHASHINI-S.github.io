@@ -14,8 +14,7 @@ This project automates the analysis of student feedback by using *Natural Langua
 
 - NLP (Natural Language Processing)
 - Machine Learning (ML)
-- Python, Jupyter
-- Dashboards for visualization
+
 
 ### Key Features
 
