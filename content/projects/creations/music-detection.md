@@ -10,7 +10,6 @@ tags: [facial emotion recognition, CNN, music recommendation, AI]
 
 This project recommends music based on the user's facial emotion detected via a webcam. It uses *CNN-based emotion classification* to recognize moods like happy, sad, angry, etc., and plays music accordingly via an integrated GUI using Tkinter.
 
-This project recommends music based on the user's facial emotion detected via a webcam. It uses *CNN-based emotion classification* to recognize moods like happy, sad, angry, etc., and plays music accordingly via an integrated GUI using Tkinter.
 ### Tools & Technologies
 
 - CNN (for emotion detection)
