@@ -21,6 +21,7 @@ This project recommends music based on the user's facial emotion detected via a 
 - Real-time face emotion analysis
 - Dynamic music playlist based on mood
 - Lightweight and cost-effective
+- Lightweight and cost-effective
 
 ### Applications
 
